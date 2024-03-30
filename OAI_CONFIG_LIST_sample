@@ -1,0 +1,8 @@
+[
+    {
+        "model": "openhermes",
+        "base_url": "http://localhost:5678/v1",
+        "api_key": "12355ed",
+        "api_type": "open_ai"
+    }
+]
